@@ -1,4 +1,4 @@
-package classMethod; 
+package classMethod.human; 
 
 public class Human02 {
     public String name;

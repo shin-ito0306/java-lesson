@@ -1,4 +1,6 @@
-import classMethod.Human03;
+package classMethod;
+
+import classMethod.human.Human03;
 
 public class ClassMethod03 {
     public static void main(String[] args) {
